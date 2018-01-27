@@ -1,0 +1,42 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Author Identification}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Statoi/C-CORE Iceberg Classifier Challenge}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Datamining}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Data Preprossing}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Mining, Interpretation, and Action}{4}{subsection.2.2}
+\contentsline {paragraph}{Top Ten Algorithms in DM}{4}{paragraph*.1}
+\contentsline {section}{\numberline {3}Author Identification: Full Problem Description}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Data Analysis}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Methods}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Results}{6}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Summary and Future Work}{6}{subsection.3.4}
+\contentsline {section}{\numberline {4}Iceberg: Full Problem Description}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}Data Analysis}{7}{subsection.4.1}
+\contentsline {paragraph}{Initial Analysis}{7}{paragraph*.3}
+\contentsline {paragraph}{Further Analysis}{7}{paragraph*.5}
+\contentsline {paragraph}{Hypotheses}{7}{paragraph*.9}
+\contentsline {subsection}{\numberline {4.2}Methods}{8}{subsection.4.2}
+\contentsline {paragraph}{Model Selection}{8}{paragraph*.10}
+\contentsline {paragraph}{Logistic Regression}{9}{paragraph*.11}
+\contentsline {paragraph}{Random Forest}{9}{paragraph*.12}
+\contentsline {paragraph}{XGBoost}{9}{paragraph*.13}
+\contentsline {paragraph}{Features}{9}{paragraph*.14}
+\contentsline {paragraph}{Challenges}{11}{paragraph*.16}
+\contentsline {paragraph}{}{11}{paragraph*.17}
+\contentsline {paragraph}{}{11}{paragraph*.19}
+\contentsline {paragraph}{Implementation}{11}{paragraph*.20}
+\contentsline {paragraph}{}{11}{paragraph*.21}
+\contentsline {paragraph}{}{12}{paragraph*.22}
+\contentsline {paragraph}{}{12}{paragraph*.23}
+\contentsline {paragraph}{}{12}{paragraph*.24}
+\contentsline {subsection}{\numberline {4.3}Results}{12}{subsection.4.3}
+\contentsline {paragraph}{Processing Performance}{12}{paragraph*.25}
+\contentsline {paragraph}{LgR Feature Selection Performance}{12}{paragraph*.29}
+\contentsline {paragraph}{Predictive Performance}{13}{paragraph*.31}
+\contentsline {subsection}{\numberline {4.4}Summary and Future Work}{13}{subsection.4.4}
+\contentsline {paragraph}{Summary}{13}{paragraph*.36}
+\contentsline {paragraph}{Future Work}{14}{paragraph*.37}
+\contentsline {section}{Acknowledgments}{14}{section*.38}
+\contentsline {section}{References}{14}{section*.39}
+\contentsfinish 
